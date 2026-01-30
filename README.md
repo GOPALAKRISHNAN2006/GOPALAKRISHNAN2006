@@ -120,8 +120,7 @@ https://github.com/GOPALAKRISHNAN2006
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=GOPALAKRISHNAN2006&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPALAKRISHNAN2006&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOPALAKRISHNAN2006&theme=tokyonight&hide_border=true"/>
 
