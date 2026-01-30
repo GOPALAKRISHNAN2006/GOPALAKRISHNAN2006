@@ -116,6 +116,13 @@ https://www.linkedin.com/in/gopalakrishnan-m-6a323a292
 🐙 **GitHub**  
 https://github.com/GOPALAKRISHNAN2006  
 
+## 🌐 My Portfolio
+
+🚀 **Live Portfolio:**  
+👉 https://gopalakrishnan2006.github.io/Port/
+
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gopalakrishnan2006.github.io/Port/)
+
 ---
 
 ## 📊 GitHub Stats
