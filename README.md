@@ -16,7 +16,7 @@
 
 🎓 **B.Tech Information Technology (2023–2027)**  
 📍 **Sri Shakthi Institute of Engineering & Technology**  
-📊 **CGPA: 8.41**
+📊 **CGPA: 8.17**
 
 🎯 I am a **dedicated Full-Stack Developer** passionate about building **scalable, secure, and high-impact applications** using **Java, Spring Boot, React, and modern web technologies**.
 
